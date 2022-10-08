@@ -4,7 +4,7 @@ int max2(int, int);
 
 int main() {
     int a, b;
-    cout << "nter 2 grades" << endl;
+    cout << "Enter 2 grades" << endl;
     cin >> a >> b ;
     cout << "Biggest grade = "<< max2(a,b)<<endl;
     return 0;
